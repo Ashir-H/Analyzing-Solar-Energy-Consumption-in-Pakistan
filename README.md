@@ -9,7 +9,7 @@ Senior year project at LUMS under the supervision of Dr. Ayesha Ali
 * Muhammad Sher Alam Bhatti 25020436
 
 ## Supervisor
-Dr. Ayesha Ali
+[Dr. Ayesha Ali](https://sites.google.com/view/ayeshaali)
 
 ## Overview
 ### Chapter 1
@@ -31,12 +31,12 @@ future research to support Pakistan’s transition to sustainable energy. This s
 a holistic view of solar energy uptake and informs targeted policy recommendations.
 
 ## Datasets used
-Digital Pakistani Census 2023
-Household Integrated Economic Survey (HIES)
-Crops Area and Production Report 2022 - 2023
-National Oceanic and Atmospheric Administration’s (NOAA)
-Global Nighttime Lights dataset
-World Bank’s 2018 Electricity Transmission Network for Pakistan
-LESCO green licensing dataset (private)
-Location data from google maps
-Average property prices from Zameen.com
+* Digital Pakistani Census 2023
+* Household Integrated Economic Survey (HIES)
+* Crops Area and Production Report 2022 - 2023
+* National Oceanic and Atmospheric Administration’s (NOAA)
+* Global Nighttime Lights dataset
+* World Bank’s 2018 Electricity Transmission Network for Pakistan
+* LESCO green licensing dataset (private)
+* Location data from google maps
+* Average property prices from Zameen.com
