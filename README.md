@@ -3,10 +3,10 @@ Senior year project at LUMS under the supervision of Dr. Ayesha Ali
 2024 - 2025
 
 ## Authors
-Ashir Habib 25020214
-Ayleen Naushahi 25020435
-Muhammad Ersum Ali 25020332
-Muhammad Sher Alam Bhatti 25020436
+* Ashir Habib 25020214
+* Ayleen Naushahi 25020435
+* Muhammad Ersum Ali 25020332
+* Muhammad Sher Alam Bhatti 25020436
 
 ## Supervisor
 Dr. Ayesha Ali
